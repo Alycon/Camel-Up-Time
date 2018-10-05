@@ -1,0 +1,42 @@
+Stuff in Camel Up (elements) :
+ - track (16 tiles)
+ - 5 camels (B, Y, G, O, W)
+ - betting cards [20] (4 ppl total, 5 for each player)
+ - 4 desert tiles (one for each character)
+ - 5 die (B, Y, G, O, W)
+ - 15 leg bet tiles (3 per color from 5/3/1)
+ - 5 pyramid roll cards
+ - 1st player marker
+ - money (split into 1s 5s <- coins and 10s 20s <- bills) 
+ - board :: 
+      bet space for winner || 
+      bet space for loser || 
+      place to pick up pyramid roll cards || 
+      place to pick up leg bet cards ||
+      place to house die ||
+ 
+ 
+ NOTE :: numbers are all moneys
+ Rules of Camel cup (very simplified) :
+ - game starts with 3 money for everyone
+ - ends by camel crossing fin line (CROSSiNG THRough)
+ - camels stack, top is first, bottom last
+ - win by getting most money at end of game
+ - game plays in terms of "legs"
+ - legs end when drawn 5 pyramid cards
+ - earliest bet for overall Winner / loser gets +8/+5/+3/+2/+1 (if Correct) (if wrong, -1)
+ - players have 4 choices ::
+      can get a pyramid card ||
+      can get leg bet cards (bet on a camel to win, if first; +5/+3/+1; if 2nd; +1/+1/+1; else; -1/-1/-1) ||
+      can bet on who will win or lose ENTIRE RACE ||
+      can put a desert tile (either +1/-1) cant be on a space w/ camels or next to tile --
+      --(if camel steps on, player who put tile get +1) ||
+      
+ Nuiances of Camel cup (really stupid specific rules) :
+ - money automatically gets changed for optimal setting
+ - die get revealed AFTER they roll
+ - camels get set up at beginning according to random roll
+ - cant go below 1 moneys
+ - can bet multiple times on winner / loser with remaining cards
+ - can change position and orientation of desert tile things
+ - earliest bet for overall Winner / loser gets 
